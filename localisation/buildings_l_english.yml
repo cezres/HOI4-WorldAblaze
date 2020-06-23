@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  PRODUCTION_MATERIALS_COAL:0 "煤炭"
  coal_desc:0 "煤炭作为一种燃料，是当前最大的发电来源，也是炼钢过程中的关键组成部分。"
  PRODUCTION_MATERIALS_IRON:0 "生铁"
@@ -18,7 +18,7 @@
  dockyard_desc:0 "此建筑为其所属地区提供了建造新舰艇的工业能力。"
  industrial_complex:0 "民用工厂"
  industrial_complex_plural:0 "民用工厂"
- industrial_complex_desc:0 "This building provides the state with industry for production of civilian goods or construction of new buildings. Can be converted to military industry if needed. §Y(CONSUMES §!§R1 STEEL§!§Y)§!\n"
+ industrial_complex_desc:0 "这座建筑为国家提供了生产民用物品或建造新建筑的工业。如果需要的话可以转为军事工业。§Y（消耗量§!§R1钢§!§Y）§!\n"
  steel_refinery:0 "钢铁厂"
  steel_refinery_plural:0 "钢铁厂"
  steel_refinery_desc:0 "A steel mill or steelworks is an industrial plant for the manufacture of steel providing the state with. §Y(CONSUMES §!§R20 COAL§Y AND §!§R25 IRON§!§Y)§!\n"
@@ -27,7 +27,7 @@
  aluminium_refinery_desc:0 "Aluminium smelting is the process of extracting aluminium from its oxide, alumina, generally by the Hall-Héroult process providing the state with. §Y(CONSUMES §!§R20 COAL§!§Y AND §!§R25 BAUXITE§!§Y)§!\n"
  hydro_aluminium_refinery:0 "水力发电铝冶炼厂"
  hydro_aluminium_refinery_plural:0 "水力发电铝冶炼厂"
- hydro_aluminium_refinery_desc:0 "Aluminium smelting made cheaper through an hydro powered facility providing the state with. §Y(CONSUMES §!§R25 BAUXITE§!§Y)§!\n"
+ hydro_aluminium_refinery_desc:0 "通过为国家提供的水力发电设施，炼铝变得更加便宜。§Y（消耗量§!§R25铝土矿§!§Y）§!\n"
  modifier_production_speed_hydro_aluminium_refinery_factor:0 "§Y水力发电铝冶炼厂§!建造速度"
  modifier_production_speed_steel_refinery_factor:0 "§Y钢铁厂§!建造速度"
  modifier_production_speed_small_steel_refinery_factor:0 "§Y小型钢厂§!建造速度"
@@ -100,7 +100,7 @@
  RADAR_ONMAP_TOOLTIP:0 "§H雷达站§! 等级：$LVL|G$/$TOT|H$\n属于：$WHO|H$"
  RADAR_ONMAP_DAMAGED_TOOLTIP:0 "§H雷达站§! 等级：$LVL|R$/$TOT|H$\n属于：$WHO|H$"
  RADAR_ONMAP_TOOLTIP_COVERAGE:0 "\n§H覆盖地区：§!"
- RADAR_ONMAP_TOOLTIP_COVERAGE_ENTRY:0 "\n  $PERC|%$$REGION$"
+ RADAR_ONMAP_TOOLTIP_COVERAGE_ENTRY:0 "\n$PERC|%$$REGION$"
  RADAR_ONMAP_TOOLTIP_SUPPRESS:0 "\n按住§GCtrl§!§R隐藏§!这条提示。"
  fuel_silo:0 "储油罐"
  fuel_silo_plural:0 "储油罐"
